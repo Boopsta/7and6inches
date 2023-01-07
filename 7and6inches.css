@@ -7,6 +7,7 @@
     animation: gradient-border 3s linear infinite;
     background-size: 400% 100%;
     color: transparent !important;
+    background-clip: text;
     -webkit-background-clip: text;
     position: relative;
     z-index: 1;
@@ -30,6 +31,7 @@ html .mention.wrapper-1ZcZW-.mention.interactive {
     animation: gradient-border 3s linear infinite;
     background-size: 400% 100%;
     color: transparent !important;
+    background-clip: text;
     -webkit-background-clip: text;
     position: relative;
     z-index: 1;
